@@ -1,0 +1,16 @@
+C:\Projects\ListandoArquivos\ListandoArquivos\bin\Debug\net5.0\ListandoArquivos.exe
+C:\Projects\ListandoArquivos\ListandoArquivos\bin\Debug\net5.0\ListandoArquivos.deps.json
+C:\Projects\ListandoArquivos\ListandoArquivos\bin\Debug\net5.0\ListandoArquivos.runtimeconfig.json
+C:\Projects\ListandoArquivos\ListandoArquivos\bin\Debug\net5.0\ListandoArquivos.runtimeconfig.dev.json
+C:\Projects\ListandoArquivos\ListandoArquivos\bin\Debug\net5.0\ListandoArquivos.dll
+C:\Projects\ListandoArquivos\ListandoArquivos\bin\Debug\net5.0\ref\ListandoArquivos.dll
+C:\Projects\ListandoArquivos\ListandoArquivos\bin\Debug\net5.0\ListandoArquivos.pdb
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ListandoArquivos.csproj.AssemblyReference.cache
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ListandoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ListandoArquivos.AssemblyInfoInputs.cache
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ListandoArquivos.AssemblyInfo.cs
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ListandoArquivos.csproj.CoreCompileInputs.cache
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ListandoArquivos.dll
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ref\ListandoArquivos.dll
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ListandoArquivos.pdb
+C:\Projects\ListandoArquivos\ListandoArquivos\obj\Debug\net5.0\ListandoArquivos.genruntimeconfig.cache
